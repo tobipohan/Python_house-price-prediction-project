@@ -7,8 +7,8 @@ and from what i thought more simple and more easy to do.
 run 'python install -r requirements.txt'
 
 ## Running the program
-Make sure that you already got data of other houses, that has their land and building area, distance from center of the city, and their prices.
-The more data it has the better. And put it in a csv file format.
+Make sure that you already got data on other houses, that have their land and building area, distance from the center of the city, and their prices. 
+The more data it has the better. And put it in a CSV file format. 
 I already got an example of data from DQLab here.
 
 Houses.csv
